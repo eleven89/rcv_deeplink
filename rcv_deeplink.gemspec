@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = "rcv_deeplink"
-  s.version     = "0.0.0"
+  s.version     = "0.0.1"
   s.summary     = "LSM reference helper tool"
   s.description = "Converts a reference to a deep link to LSM's bible text site"
   s.authors     = ["Philip Bradley"]
